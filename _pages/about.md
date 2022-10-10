@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the department of [Electrical and Computer Engineering] (https://www.ece.ucsd.edu/) at University of California San Diego where I am working under supervision of [Prof. Yang Zheng] (https://zhengy09.github.io/index.html). 
+I am a Ph.D. student in the department of [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) at University of California San Diego where I am working under supervision of [Prof. Yang Zheng](https://zhengy09.github.io/index.html). 
 
 A data-driven personal website
 ======
