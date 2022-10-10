@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the department of [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) at University of California San Diego, where I am working under the supervision of [Prof. Yang Zheng](https://zhengy09.github.io/index.html). Before starting my Ph.D. program at UCSD, I was an undergraduate in the department of Electrical and Computer Engineering at University of Tehran. I received my bachelor's degree in Electrical Engineering with a minor degree in Computer Engineering. I was fortunate to be advised by [Prof. Hamed Kebraei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en) during my undergrad studies. 
+I am a Ph.D. student in the department of [Electrical and Computer Engineering](https://www.ece.ucsd.edu/) at the University of California San Diego, where I am working under the supervision of [Prof. Yang Zheng](https://zhengy09.github.io/index.html) in [Scalable Optimization and Control (SOC) Lab](https://zhengy09.github.io/soclab.html). Before starting my Ph.D. program at UCSD, I was an undergraduate in the department of Electrical and Computer Engineering at the University of Tehran. I received my bachelor's degree in Electrical Engineering with a minor degree in Computer Engineering. I was fortunate to be advised by [Prof. Hamed Kebraei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en) during my undergrad studies. 
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
