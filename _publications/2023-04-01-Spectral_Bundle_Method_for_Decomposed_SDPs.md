@@ -1,7 +1,6 @@
 ---
 title: "A Spectral Bundle Method for Sparse Semidefinite Programs"
 collection: publications
-date: 2023-04-01
 paperurl: 'https://hsmmoj.github.io/files/SpecBM-SDPs.pdf'
 ---
 
